@@ -14,7 +14,7 @@ buildscript {
         androidCompileNdkVersion = '27.0.12077973'
         androidSourceCompatibility = JavaVersion.VERSION_20
         androidTargetCompatibility = JavaVersion.VERSION_20
-        androidKotlinCompilerExtensionVersion = "1.5.13"
+        androidKotlinCompilerExtensionVersion = "1.5.15"
     }
 }
 
