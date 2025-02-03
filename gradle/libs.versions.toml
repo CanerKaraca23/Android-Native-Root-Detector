@@ -52,7 +52,7 @@ javaxInject = { group = "javax.inject", name = "javax.inject", version = "1" }
 kotlinx-serialization-protobuf = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-protobuf", version = "1.7.1" }
 
 # core bundle
-material-kolor = { group = "com.materialkolor", name = "material-kolor", version = "1.7.0" }
+material-kolor = { group = "com.materialkolor", name = "material-kolor", version = "1.7.1" }
 android-svg = { group = "com.caverock", name = "androidsvg-aar", version = "1.4" }
 boringssl = { group = "io.github.vvb2060.ndk", name = "boringssl", version = "4.0" }
 coil-base = { group = "io.coil-kt", name = "coil-base", version = "2.7.0" }
